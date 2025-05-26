@@ -1,4 +1,4 @@
-### OWASP CI/CD Risk Matrix — Fortinet Product Coverage
+### OWASP Top 10 CI/CD Security Risks Mapped to Fortinet Cloud Solutions 
 
 | **Risk** | **What It’s About** | **Example** | **FortiWeb** | **FortiGate** | **FortiCNAPP** |
 |----------|----------------------|-------------|--------------|---------------|----------------|
@@ -14,7 +14,7 @@
 | **SEC-10**<br>Insufficient Visibility | Can’t see or audit what’s happening | Attack went undetected for weeks | ✅ | ✅ | ✅ |
 
 
-# OWASP Top 10 CI/CD Security Risks Mapped to Fortinet Cloud Solutions
+# OWASP CI/CD Risk Matrix — Fortinet Product Functional Coverage
 
 This document maps the OWASP Top 10 CI/CD Security Risks to Fortinet solutions: **FortiWeb**, **FortiGate VM**, and **FortiCNAPP (Lacework)**, explaining how each product helps mitigate these risks.
 
